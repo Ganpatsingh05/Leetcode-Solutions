@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ganpat-singh-aabb4a285/]">
+  <a href="https://www.linkedin.com/in/Ganpat Singh">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" width="50" height="50">
   </a>
-  <a href="[https://leetcode.com/u/Ganpat_singh/]">
+  <a href="https://leetcode.com/Ganpat_singh">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" width="50" height="50">
   </a>
 </p>
