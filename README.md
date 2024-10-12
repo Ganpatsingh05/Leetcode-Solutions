@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganpat-singh">
+  <a href="https://www.linkedin.com/in/ganpat-singh-aabb4a285/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" width="50" height="50">
   </a>
   <a href="https://leetcode.com/Ganpat_singh">
