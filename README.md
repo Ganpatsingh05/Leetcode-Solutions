@@ -34,4 +34,12 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0792-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
