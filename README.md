@@ -23,3 +23,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" width="50" height="50">
   </a>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0792-binary-search) |
+<!---LeetCode Topics End-->
