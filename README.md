@@ -41,5 +41,14 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Ganpatsingh05/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
